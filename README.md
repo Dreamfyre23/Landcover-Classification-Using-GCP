@@ -34,20 +34,6 @@ A cloud-based land cover classification system that leverages **multispectral sa
 
 ---
 
-# 🎥 Demo
-
-Watch the complete workflow of the application, from uploading a multispectral satellite image to generating land cover predictions and Explainable AI visualizations.
-
-<p align="center">
-  <video src="assets/demo.mp4" controls width="900">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-▶️ **Project Demo:** [demo.mp4](assets/demo.mp4)
-
----
-
 # 🏗️ Overall System Architecture
 
 <p align="center">

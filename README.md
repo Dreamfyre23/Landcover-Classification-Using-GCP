@@ -1,10 +1,6 @@
 # 🛰️ Land Cover Classification using Google Cloud Platform
 
 <p align="center">
-  <img src="static/cover-image.jpg" alt="Project Banner" width="100%">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch)
@@ -75,7 +71,7 @@ The application is deployed using **Google App Engine**, while the trained Spect
 # 🧠 SpectralFormer Architecture
 
 <p align="center">
-<img src="assets/SpectralFormerArchitecture.png" width="600">
+<img src="assets/SpectralFormerArchitecture.png" width="400">
 </p>
 
 SpectralFormer is a Transformer-based architecture designed specifically for multispectral image classification. Instead of relying solely on spatial information, it learns rich spectral relationships across different image bands using Transformer encoders.

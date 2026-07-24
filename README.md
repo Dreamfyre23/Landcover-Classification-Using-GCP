@@ -51,7 +51,7 @@ Watch the complete workflow of the application, from uploading a multispectral s
 # 🏗️ Overall System Architecture
 
 <p align="center">
-<img src="assets/OverallArchitecture.png" width="900">
+<img src="assets/OverallArchitectureImage.png" width="900">
 </p>
 
 The complete workflow consists of image upload, preprocessing, cloud-based inference using SpectralFormer, prediction generation, and visualization of Explainable AI outputs.
@@ -61,7 +61,7 @@ The complete workflow consists of image upload, preprocessing, cloud-based infer
 # ☁️ Cloud Architecture
 
 <p align="center">
-<img src="assets/CloudArchitecture.png" width="900">
+<img src="assets/CloudArchitectureImage.png" width="900">
 </p>
 
 The application is deployed using **Google App Engine**, while the trained SpectralFormer model is stored in **Google Cloud Storage (GCS)**. Users interact with the Flask web application, which performs preprocessing, loads the model from cloud storage, and returns prediction results.

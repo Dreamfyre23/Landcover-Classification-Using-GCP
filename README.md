@@ -37,7 +37,7 @@ A cloud-based land cover classification system that leverages **multispectral sa
 # 🏗️ Overall System Architecture
 
 <p align="center">
-<img src="assets/OverallArchitectureImage.png" width="600">
+<img src="assets/OverallArchitectureImage.png" width="700">
 </p>
 
 The complete workflow consists of image upload, preprocessing, cloud-based inference using SpectralFormer, prediction generation, and visualization of Explainable AI outputs.
@@ -47,7 +47,7 @@ The complete workflow consists of image upload, preprocessing, cloud-based infer
 # ☁️ Cloud Architecture
 
 <p align="center">
-<img src="assets/CloudArchitectureImage.png" width="600">
+<img src="assets/CloudArchitectureImage.png" width="700">
 </p>
 
 The application is deployed using **Google App Engine**, while the trained SpectralFormer model is stored in **Google Cloud Storage (GCS)**. Users interact with the Flask web application, which performs preprocessing, loads the model from cloud storage, and returns prediction results.

@@ -156,7 +156,7 @@ The web application provides an intuitive interface for performing land cover cl
 ### Prediction Result - Example 1
 
 <p align="center">
-<img src="assets/UIImage1.jpeg" width="700">
+<img src="assets/UIImage1.jpeg" width="400">
 </p>
 
 ---
@@ -164,7 +164,7 @@ The web application provides an intuitive interface for performing land cover cl
 ### Prediction Result - Example 2
 
 <p align="center">
-<img src="assets/UIImage2.png" width="700">
+<img src="assets/UIImage2.png" width="400">
 </p>
 
 ---
@@ -174,7 +174,7 @@ The web application provides an intuitive interface for performing land cover cl
 ## Performance Metrics
 
 <p align="center">
-<img src="assets/PerformanceMetrics.png" width="750">
+<img src="assets/PerformanceMetrics.png" width="400">
 </p>
 
 ---
@@ -182,7 +182,7 @@ The web application provides an intuitive interface for performing land cover cl
 ## Classification Report
 
 <p align="center">
-<img src="assets/ClassificationReport.png" width="800">
+<img src="assets/ClassificationReport.png" width="400">
 </p>
 
 ---
@@ -190,7 +190,7 @@ The web application provides an intuitive interface for performing land cover cl
 ## Per-Class Metrics
 
 <p align="center">
-<img src="assets/PerclassMetrics.png" width="800">
+<img src="assets/PerclassMetrics.png" width="400">
 </p>
 
 ---
@@ -198,7 +198,7 @@ The web application provides an intuitive interface for performing land cover cl
 ## Confusion Matrix
 
 <p align="center">
-<img src="assets/ConfusionMatrix.png" width="700">
+<img src="assets/ConfusionMatrix.png" width="400">
 </p>
 
 ---
@@ -206,7 +206,7 @@ The web application provides an intuitive interface for performing land cover cl
 ## ROC Curve
 
 <p align="center">
-<img src="assets/ROC.png" width="700">
+<img src="assets/ROC.png" width="400">
 </p>
 
 ---
@@ -218,7 +218,7 @@ To improve model interpretability, the project integrates multiple Explainable A
 ## Sample Satellite Image
 
 <p align="center">
-<img src="assets/EuroSATImage.png" width="500">
+<img src="assets/EuroSATImage.png" width="400">
 </p>
 
 ---
@@ -226,7 +226,7 @@ To improve model interpretability, the project integrates multiple Explainable A
 ## Corresponding Spectral Bands
 
 <p align="center">
-<img src="assets/EuroSATImageBands.png" width="850">
+<img src="assets/EuroSATImageBands.png" width="400">
 </p>
 
 ---
@@ -234,7 +234,7 @@ To improve model interpretability, the project integrates multiple Explainable A
 ## Grad-CAM
 
 <p align="center">
-<img src="assets/GradCAM.png" width="700">
+<img src="assets/GradCAM.png" width="400">
 </p>
 
 **Grad-CAM (Gradient-weighted Class Activation Mapping)** highlights the image regions that contribute most to the predicted land cover class, providing spatial insight into the model's decision-making process.
@@ -244,7 +244,7 @@ To improve model interpretability, the project integrates multiple Explainable A
 ## LIME
 
 <p align="center">
-<img src="assets/LIME.png" width="700">
+<img src="assets/LIME.png" width="400">
 </p>
 
 **LIME (Local Interpretable Model-agnostic Explanations)** explains individual predictions by approximating the model locally with an interpretable surrogate model, identifying the most influential image regions.
@@ -254,7 +254,7 @@ To improve model interpretability, the project integrates multiple Explainable A
 ## Layer-wise Relevance Propagation (LRP)
 
 <p align="center">
-<img src="assets/LRP.png" width="700">
+<img src="assets/LRP.png" width="400">
 </p>
 
 **Layer-wise Relevance Propagation (LRP)** redistributes the model's prediction score back through the network to visualize the contribution of each pixel toward the final classification.

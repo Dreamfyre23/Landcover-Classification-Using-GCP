@@ -75,7 +75,7 @@ The application is deployed using **Google App Engine**, while the trained Spect
 # 🧠 SpectralFormer Architecture
 
 <p align="center">
-<img src="assets/SpectralFormerArchitecture.png" width="850">
+<img src="assets/SpectralFormerArchitecture.png" width="600">
 </p>
 
 SpectralFormer is a Transformer-based architecture designed specifically for multispectral image classification. Instead of relying solely on spatial information, it learns rich spectral relationships across different image bands using Transformer encoders.

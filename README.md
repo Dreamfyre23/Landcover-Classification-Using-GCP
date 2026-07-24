@@ -51,7 +51,7 @@ Watch the complete workflow of the application, from uploading a multispectral s
 # 🏗️ Overall System Architecture
 
 <p align="center">
-<img src="assets/OverallArchitecture.png" width="900">
+<img src="assets/OverallArchitectureImage.png" width="900">
 </p>
 
 The complete workflow consists of image upload, preprocessing, cloud-based inference using SpectralFormer, prediction generation, and visualization of Explainable AI outputs.
